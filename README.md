@@ -1,2 +1,3 @@
 # Test1
-This is my 1st git repo. practise
+This is my 1st git repo. practise.
+Author-Kritesh Bhujel.
